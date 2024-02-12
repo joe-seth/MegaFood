@@ -16,7 +16,7 @@ Having created the website from scratch, I learned how to create and implement f
 - Utilized grid, flexbox and absolute positioning
 
 # code and preview
-<img src="./screenShoot.png" style="max-width:100%;"></a>
+<img src="./Screenshot.png" style="max-width:100%;"></a>
 
 # Acknowledgement
 This project was inspired by Jonas Schemdtmann. Thanks for the learning exeperience
